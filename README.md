@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Urvesha Haryani 
 
-<!--
-**UrveshaHaryani/UrveshaHaryani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate passionate about building AI-powered applications.
 
-Here are some ideas to get you started:
+##  About Me
+-  Python Developer
+-  Interested in Artificial Intelligence & Machine Learning
+-  Exploring RAG, LLMs, and NLP
+-  Building web applications with Flask and Streamlit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Skills
+- Python
+- SQL
+- HTML & CSS
+- Flask
+- Streamlit
+- Machine Learning
+
+##  Currently Learning
+- Advanced Machine Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+
+##  Connect with Me
+- LinkedIn: *https://www.linkedin.com/in/urvesha-haryani-045115361/*
+- Email: *urvershaharyani48@mail.com*
