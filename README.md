@@ -22,5 +22,5 @@ Computer Science graduate passionate about building AI-powered applications.
 - Retrieval-Augmented Generation (RAG)
 
 ##  Connect with Me
-- LinkedIn: *https://www.linkedin.com/in/urvesha-haryani-045115361/*
+- LinkedIn: *https://www.linkedin.com/in/urvesha-haryani/*
 - Email: *urvershaharyani48@mail.com*
